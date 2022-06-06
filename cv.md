@@ -1,7 +1,7 @@
 # Damir Bilalov
 
 ## Personal data
-Area:	**Finance**
+Area:	**Finance**/n
 Know-how level:	**Senior consultant SAP FI**
 _Education_:	Accounting, analysis, audit
         	Kazan (Volga) federal university (Institute of economy and finance)
