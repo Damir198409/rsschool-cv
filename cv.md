@@ -77,7 +77,7 @@ SAP Implementation (FI, FI-AA, FI-AP, FI-AR, FI-BL, FI-GL, FI-SL),ABAP programmi
 * Participation in release upgrade or new functionality/enhancement assessment.
 * Performing tests, training, and UAT.
 
-
+**************************************************************************************
 
 **Customer:**	Aibolit
 
