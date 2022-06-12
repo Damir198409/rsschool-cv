@@ -266,54 +266,6 @@
     background-repeat: no-repeat;
   } 
 
-  .client-item:client-one{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/tatneft.jpg");
-  }
-
-  .client-item:client-two{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/sibur.jpg");
-  }
-
-  .client-item:client-three{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/Salym petroleum.jpg");
-  }
-
-  .client-item:client-four{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/Vaillant.jpg");
-  }
-
-  .client-item:client-five{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/viessmann.jpg");
-  } 
-
-  .client-item:client-six{
-    top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/img/Helivert.jpg");
-  } 
-
   .footer {
     background-color: #4682B4;
     padding: 20px;  
