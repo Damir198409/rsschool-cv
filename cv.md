@@ -42,12 +42,12 @@ _Certification:_
 - Python for beginners (2022)
 
 ## SAP training:
-•	AC 201/202 – Settings of finance of II: Periodic works and special operations. SAP of the CIS
-•	AC 207 – Parallel financial account and reporting, SAP of the CIS
-•	AC 205 – Closing of the reporting period. SAP of the CIS
-•	ACRUS – Function of financial accounts department for the accounting of taxes for the Russian Federation, SAP of the CIS
-•	AC 210 – New General Ledger
-•	AC 110 – SAP Accounting powered by SAP HANA
+ + AC 201/202 – Settings of finance of II: Periodic works and special operations. SAP of the CIS
+ + AC 207 – Parallel financial account and reporting, SAP of the CIS
+ + AC 205 – Closing of the reporting period. SAP of the CIS
+ + ACRUS – Function of financial accounts department for the accounting of taxes for the Russian Federation, SAP of the CIS
+ + AC 210 – New General Ledger
+ + AC 110 – SAP Accounting powered by SAP HANA
 
 ## Core competences:
 SAP FI Accounts Payable (FI-AP), SAP FI Accounts Receivable (FI-AR), Asset Accounting (FI-AA), Bank Accounting (FI-BL), General Ledger Accounting (FI-GL), Russian localization specifics, integration aspects with FI/CO, integration aspects with FI/SD, FI/MM
@@ -69,13 +69,13 @@ SAP Implementation (FI, FI-AA, FI-AP, FI-AR, FI-BL, FI-GL, FI-SL),ABAP programmi
 **Period:**	01.2020– current time
 
 
-	Designing SAP solution in the FICO modules of ECC 6 and Central finance.
-	Business Specification preparation according to SAP template model of the company.
-	User requirements gathering.
-	Providing expert advice on SAP functionality.
-	Ensure the integrity of the finance configuration of the SAP system.
-	Participation in release upgrade or new functionality/enhancement assessment.
-	Performing tests, training, and UAT.
+* Designing SAP solution in the FICO modules of ECC 6 and Central finance.
+* Business Specification preparation according to SAP template model of the company.
+* User requirements gathering.
+* Providing expert advice on SAP functionality.
+* Ensure the integrity of the finance configuration of the SAP system.
+* Participation in release upgrade or new functionality/enhancement assessment.
+* Performing tests, training, and UAT.
 
 
 
@@ -88,10 +88,10 @@ SAP Implementation (FI, FI-AA, FI-AP, FI-AR, FI-BL, FI-GL, FI-SL),ABAP programmi
 **Period:**	07.2019 – 12.2019
 
 
-	Implementation of a standard Profit Tax solution based on FI-SL:
-- Setting up data collection hierarchy;
-- Gathering of requirements;
-- Development of reports according to the client's requirements;
-- Writing functional specifications to adjust the existing solution.
-- Functional testing;
-- Training with key users
+* Implementation of a standard Profit Tax solution based on FI-SL:
+  - Setting up data collection hierarchy;
+  - Gathering of requirements;
+  - Development of reports according to the client's requirements;
+  - Writing functional specifications to adjust the existing solution.
+  - Functional testing;
+  - Training with key users
