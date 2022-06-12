@@ -1,4 +1,6 @@
 # Damir Bilalov
+![myphoto](https://user-images.githubusercontent.com/57859078/173224125-13529381-1205-4972-b5f5-4f99fddad397.jpg "Avatar")
+
 
 ## Personal data
 **_Area:_**	**Finance**
